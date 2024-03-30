@@ -14,7 +14,7 @@ You can download VirualBox from their Downloads page linked here: [https://www.v
 
 ![0](https://github.com/nicknava1/Hash-Integrity/blob/main/Hash%20Checksum/0.png)
 
-<h2>Open the SHA256 checksums link provided by Oracle.</h2>
+<h2>Open the SHA256 checksums link</h2>
 
 ![1](https://github.com/nicknava1/Hash-Integrity/blob/main/Hash%20Checksum/1.png)
 
