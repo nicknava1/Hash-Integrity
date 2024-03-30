@@ -10,6 +10,8 @@ In this tutorial, I will show you how to verify the integrity of a file using a 
 
 <h2>Download VirtualBox for Windows Hosts from the Official Site</h2>
 
+You can download VirualBox from their Downloads page linked here: [https://www.virtualbox.org/wiki/Downloads](https://www.virtualbox.org/wiki/Downloads)
+
 ![0](https://github.com/nicknava1/Hash-Integrity/blob/main/Hash%20Checksum/0.png)
 
 <h2>Open the SHA256 checksums link provided by Oracle.</h2>
