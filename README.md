@@ -1,4 +1,4 @@
-<h2>Verifying File Integrity using SHA256 Checksums</h2>
+<h2>Verifying File Integrity using Checksums</h2>
 <h1>Project Description</h1>
 In this tutorial, I will show you how to verify the integrity of a file using a provided checksum. Integrity safeguards against unauthorized modifications, alterations, or deletions of data. By maintaining integrity, organizations can have confidence in the accuracy and consistency of their data, which is essential for making informed decisions, ensuring compliance with regulations, and maintaining trust with stakeholders.
 
