@@ -1,8 +1,8 @@
 <h1>Verifying File Integrity using Checksums</h1>
-<h1>Project Description</h1>
+<h2>Project Description</h2>
 In this tutorial, I will show you how to verify the integrity of a file using a provided checksum. Integrity safeguards against unauthorized modifications, alterations, or deletions of data. By maintaining integrity, organizations can have confidence in the accuracy and consistency of their data, which is essential for making informed decisions, ensuring compliance with regulations, and maintaining trust with stakeholders.
 
-<h1>Tools Used</h1>
+<h2>Tools Used</h2>
 
 - PowerShell
 - SHA256 Hash Checksum
