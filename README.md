@@ -24,9 +24,9 @@ In this tutorial, I will show you how to verify the integrity of a file using a 
 
 ![3](https://github.com/nicknava1/Hash-Integrity/blob/main/Hash%20Checksum/3.png)
 
-<p>You can also open Powershell normally instead and manually navigate to this directory using cd.</p>
-
 ![4](https://github.com/nicknava1/Hash-Integrity/blob/main/Hash%20Checksum/4.png)
+
+<p>You can also open Powershell normally instead and manually navigate to this directory using cd.</p>
 
 <h1>Get the File Hash of the File you Downloaded</h1>
 
