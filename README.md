@@ -1,4 +1,4 @@
-<h2>Verifying File Integrity using Checksums</h2>
+<h1>Verifying File Integrity using Checksums</h1>
 <h1>Project Description</h1>
 In this tutorial, I will show you how to verify the integrity of a file using a provided checksum. Integrity safeguards against unauthorized modifications, alterations, or deletions of data. By maintaining integrity, organizations can have confidence in the accuracy and consistency of their data, which is essential for making informed decisions, ensuring compliance with regulations, and maintaining trust with stakeholders.
 
@@ -8,11 +8,11 @@ In this tutorial, I will show you how to verify the integrity of a file using a 
 - SHA256 Hash Checksum
 - Oracle VirtualBox exe
 
-<h1>Download VirtualBox for Windows Hosts from the Official Site</h1>
+<h2>Download VirtualBox for Windows Hosts from the Official Site</h2>
 
 ![0](https://github.com/nicknava1/Hash-Integrity/blob/main/Hash%20Checksum/0.png)
 
-<h1>Open the SHA256 checksums link provided by Oracle.</h1>
+<h2>Open the SHA256 checksums link provided by Oracle.</h2>
 
 ![1](https://github.com/nicknava1/Hash-Integrity/blob/main/Hash%20Checksum/1.png)
 
@@ -20,7 +20,7 @@ In this tutorial, I will show you how to verify the integrity of a file using a 
 
 ![2](https://github.com/nicknava1/Hash-Integrity/blob/main/Hash%20Checksum/2.png)
 
-<h1>Open your Downloads Folder and open PowerShell</h1>
+<h2>Open your Downloads Folder and open PowerShell</h2>
 
 ![3](https://github.com/nicknava1/Hash-Integrity/blob/main/Hash%20Checksum/3.png)
 
@@ -28,7 +28,7 @@ In this tutorial, I will show you how to verify the integrity of a file using a 
 
 <p>You can also open Powershell normally instead and manually navigate to this directory using cd.</p>
 
-<h1>Get the File Hash of the File you Downloaded</h1>
+<h2>Get the File Hash of the File you Downloaded</h2>
 
 ![5](https://github.com/nicknava1/Hash-Integrity/blob/main/Hash%20Checksum/5.png)
 
@@ -38,7 +38,7 @@ In this tutorial, I will show you how to verify the integrity of a file using a 
 
 <p>If you are on windows, you can use Ctrl-C to copy the file hash to make the next step easier.</p>
 
-<h1>Compare the Hashes</h1>
+<h2>Compare the Hashes</h2>
 
 <p>Use the find function in your browser, then enter the file hash you got from PowerShell</p>
 
